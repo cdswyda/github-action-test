@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["document","body","style","cssText"],"mappings":";AAAAA,SAASC,KAAKC,MAAMC,QAApB","file":"src.cc80e72a.js","sourceRoot":"../src","sourcesContent":["document.body.style.cssText = `\nbackground: #000;\ncolor: #fff;\n`\n"]}
